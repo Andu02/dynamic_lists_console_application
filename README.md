@@ -1,3 +1,3 @@
 # Made for a school project
 
-IDE Used: CodeBlocks
+IDE Used: **CodeBlocks**
